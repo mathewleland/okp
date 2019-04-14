@@ -84,8 +84,8 @@ function SEO({ description, lang, meta, keywords, title }) {
 SEO.defaultProps = {
   lang: `en`,
   meta: [],
-  keywords: [],
-  description: ``,
+  keywords: ["lost", "found", "foster", "kittens", "davis", "sacramento", "uc davis"],
+  description: `A nonprofit group to rescue orphaned kittens and help them find forever homes`,
 }
 
 SEO.propTypes = {

@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Default Starter`,
-    description: `Kick off your next, great Gatsby project with this default starter. This barebones starter ships with the main Gatsby configuration files you might need.`,
-    author: `@gatsbyjs`,
+    title: `Orphan Kitten Project`,
+    description: `Orphan Kitten Project is a nonprofit that services to rescue orphaned kittens and find them forever homes`,
+    author: `@mathewleland`,
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
